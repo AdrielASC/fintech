@@ -100,6 +100,7 @@ ul {
 
 .sidenav li a {
   flex: 1;
+  margin: 0.25rem 0;
   font-size: 1.125rem;
   text-decoration: none;
   color: var(--color-1);
